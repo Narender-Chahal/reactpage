@@ -95,7 +95,7 @@ function Footer() {
                 </Col>
                 <Col sm={4} xs={6} className="pt-5 pt-lg-0 ">
                   <h2 className="ff_opensans fw-semibold fs_sm text-white mb-0">
-                    OFFERINGS
+                    ABOUT
                   </h2>
                   <ul>
                     <li className="pt_20">
@@ -150,7 +150,7 @@ function Footer() {
                 </Col>
                 <Col sm={4} xs={6} className="pt-5 pt-lg-0 ">
                   <h2 className="ff_opensans fw-semibold fs_sm text-white mb-0">
-                    OFFERINGS
+                    SUPPORT
                   </h2>
                   <ul>
                     <li className="pt_20">
