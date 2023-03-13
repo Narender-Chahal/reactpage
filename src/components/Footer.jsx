@@ -103,7 +103,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Learn
+                        Our story
                       </a>
                     </li>
                     <li className="pt_13">
@@ -111,7 +111,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Listings
+                        Agents
                       </a>
                     </li>
                     <li className="pt_13">
@@ -119,7 +119,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Scheduling
+                        Careers
                       </a>
                     </li>
                     <li className="pt_13">
@@ -127,7 +127,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Financing
+                        Get the inside story
                       </a>
                     </li>
                     <li className="pt_13">
@@ -135,7 +135,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Closing
+                        Press
                       </a>
                     </li>
                     <li className="pt_13">
@@ -143,7 +143,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Selling
+                        Communities
                       </a>
                     </li>
                   </ul>
@@ -158,7 +158,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Learn
+                        Resources
                       </a>
                     </li>
                     <li className="pt_13">
@@ -166,7 +166,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Listings
+                        FAQs
                       </a>
                     </li>
                     <li className="pt_13">
@@ -174,7 +174,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Scheduling
+                        Privacy
                       </a>
                     </li>
                     <li className="pt_13">
@@ -182,7 +182,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Financing
+                        Candidate Privacy
                       </a>
                     </li>
                     <li className="pt_13">
@@ -190,7 +190,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Closing
+                        Sitemap
                       </a>
                     </li>
                     <li className="pt_13">
@@ -198,7 +198,7 @@ function Footer() {
                         className="ff_opensans fw-normal fs_sm text-white text_hover"
                         href="#"
                       >
-                        Selling
+                        Contact
                       </a>
                     </li>
                   </ul>
