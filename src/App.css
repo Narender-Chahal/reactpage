@@ -255,8 +255,8 @@ td {
 .mw_340 {
   max-width: 340px;
 }
-.me_1 {
-  margin-right: 2px;
+.m_1 {
+  margin: 2px;
 }
 .text_hover:hover {
   -webkit-text-stroke-width: 0.6px;
@@ -285,9 +285,23 @@ ul {
   top: -15%;
   position: absolute;
 }
+.top_5 {
+  top: -15%;
+}
+.right_20 {
+  right: 17%;
+  top: 77%;
+}
 @media (max-width: 576px) {
   .max_width_xsm {
     max-width: 2000px;
+  }
+  .right_20 {
+    right: 17%;
+    top: 70%;
+  }
+  .mw_50 {
+    max-width: 50px;
   }
   .overflow_scroll_xsm {
     overflow-x: scroll;

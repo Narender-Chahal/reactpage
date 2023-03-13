@@ -31,7 +31,7 @@ function Footer() {
                   type="text"
                   placeholder="Email"
                 />
-                <button className="ff_opensans fw-semibold fs_sm button_unblock me_1">
+                <button className="ff_opensans fw-semibold fs_sm button_unblock m_1">
                   UNLOCK
                 </button>
               </div>
@@ -210,15 +210,22 @@ function Footer() {
           <div className="d-flex flex-column flex-lg-row align-items-lg-center mt-4">
             <div className="d-flex flex-column flex-sm-row">
               <div>
-                <img src={gogle} alt="gogle" />
+                <a href="#">
+                  {" "}
+                  <img src={gogle} alt="gogle" />
+                </a>
               </div>
               <div className="ps-sm-3 pt-3 pt-sm-0">
-                <img src={app_img} alt="app_img" />
+                <a href="">
+                  <img src={app_img} alt="app_img" />
+                </a>
               </div>
             </div>
             <div className=" d-flex mt-5 mt-lg-0 d-none d-lg-flex">
               <div className="pe-md-5 pe-3 px-lg-5 ps-sm-5  mx-xxl-5 ms-xl-4">
-                <img src={insta} alt="insta" />
+                <a href="">
+                  <img src={insta} alt="insta" />
+                </a>
               </div>
               <div className="px-md-5 px-4 ps-sm-5 mx-xxl-5 ms-xl-4">
                 <a href="">

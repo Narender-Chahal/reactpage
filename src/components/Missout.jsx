@@ -5,8 +5,8 @@ import leaf2 from "../assets/img/png/leaf2.png";
 function Missout() {
   return (
     <section className="bg_color pt-5 pb-5  position-relative">
-      <div>
-        <img className="position_absolute  d-none d-lg-flex" src={leaf1} alt="leaf1" />
+      <div className="position-absolute  d-none d-lg-flex top_5">
+        <img src={leaf1} alt="leaf1" />
       </div>
       <div className="position_absolute end_0 d-none d-lg-flex">
         {" "}
